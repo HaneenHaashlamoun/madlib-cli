@@ -1,5 +1,3 @@
-
-
 def read_template(pathOfFile):
     try :
         with open(pathOfFile)as file:
